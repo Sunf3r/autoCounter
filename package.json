@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^18.8.5",
+    "eris": "^0.17.1",
+    "spinnies": "^0.5.1"
+  },
+  "devDependencies": {
+    "@types/spinnies": "^0.5.0"
+  }
+}

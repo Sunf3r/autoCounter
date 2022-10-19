@@ -1,0 +1,22 @@
+{
+    "BOT": "bot Counter ID",
+    "OWNER": "your user ID",
+    "PREFIX": "some prefix like ! or . or ,",
+    "EMOJIS": [
+        "✅",
+        "☑️",
+        "💯",
+        "🌿",
+        "⏰",
+        "❌",
+        "white list of reacted emojis",
+        "put only emojis that the selfbots should reply",
+        "you can delete this message before start"
+    ],
+    "CHANNEL": "counting text channel id",
+    "TOKENS": [
+        "token of user 1",
+        "token of user 2",
+        "token of user 3 | not required, but it's recommended"
+    ]
+}
